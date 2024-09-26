@@ -21,7 +21,7 @@ The project was inspired by a YouTube tutorial by ByteGrad, with additional feat
 
 ## Inspiration
 
-This project was inspired by the YouTube tutorial ["Build a Next.js Blog (WordPress Headless, SSG & ISR, Cloudways)"](https://www.youtube.com/watch?v=dQw4w9WgXcQ) by ByteGrad. I followed the tutorial while adding my own customizations and features to enhance the functionality and appearance of the blog.
+This project was inspired by the YouTube tutorial ["Build a Next.js Blog (WordPress Headless, SSG & ISR, Cloudways)"](https://www.youtube.com/watch?v=AJu7CaSROXk&t=2s) by ByteGrad. I followed the tutorial while adding my own customizations and features to enhance the functionality and appearance of the blog.
 
 ## Getting Started
 
